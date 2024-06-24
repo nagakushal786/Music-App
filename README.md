@@ -49,3 +49,7 @@ To get a local copy up and running, follow these simple steps:
 - `script.js`: The JavaScript file containing the logic for the music player and the array of song names.
 - `music/`: Folder containing all the song files.
 - `images/`: Folder containing all the image files (e.g., album covers).
+
+## Contact
+
+Project Link: [https://github.com/nagakushal786/Music-App](https://github.com/nagakushal786/Music-App)
