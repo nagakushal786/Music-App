@@ -31,9 +31,9 @@ To get a local copy up and running, follow these simple steps:
     cd Music-App
     ```
 
-3. Open the `index.html` file in your preferred web browser:
+3. Open the `index.html` file in your preferred web browser. Use this command if using Git Bash:
     ```sh
-    open index.html
+    start index.html
     ```
 
 ## Usage
